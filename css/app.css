@@ -55,6 +55,7 @@ nav ul {
 }
 
 nav ul li {
+    display: block;
     padding: 1rem;
     border-bottom: 4px solid transparent;
 
